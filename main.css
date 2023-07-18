@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@800&display=swap');
+
+header{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family: "Playfair Display";
+  font-weight: bold;
+  font-size: 48px;
+  
+}
+
+body {
+  width: 1024px;
+  background-color: rgb(210, 250, 185);
+}
+
+h2{
+  text-align: center;
+  font-family: "Playfair Display";
+}
+
+h3{
+  font-family: "Playfair: Display";
+  text-align: center;
+  margin-top: 30px;
+}
+
+a{
+  border: 15px solid black;
+  border-radius: 10px;
+  background-color: black;
+  font-family: "Work Sans"; 
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 10px;
+  text-align: center;
+  display: block;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  font-family: "Ubuntu";
+  margin: 10px;
+}
+
+img{
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 30px solid rgb(50, 120, 0);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.product-section{
+  text-align: center;
+}
+
+.product{
+  font-size: 24px;
+  text-align: center; 
+  font-family: "ubuntu";
+  margin-bottom: 48px;
+}
+.first{
+  font-size: 24px;
+  text-align: center; 
+  font-family: "ubuntu";
+  margin-bottom: 48px;
+}
+.last{
+  font-size: 24px;
+  text-align: center; 
+  font-family: "Ubuntu";
+  margin-bottom: 48px;
+}
+
+.name{
+  margin-bottom: 0px;
+}
+
+.location{
+  text-align: center; 
+  font-family: "Ubuntu";
+  margin-bottom: 30px;
+  padding-bottom: 25px;
+}
+
+.location img{
+  width: 250px;
+  border: 5px solid black;
+}
+
+.footer{
+  text-align: left;
+  width: 20px;
+  margin: 30px; 
+}
+
+.footer-logo{
+  font-size: 36px;
+  font-family: "Playfair Display";
+  width: 1000px;
+}
+
+.site-links{
+  width: 500px; 
+  font-family: "Ubuntu";
+  
+}
+
+.site-links a{
+  text-align: left;
+  margin-left: 0px;
+}
+
+.footer a{
+  font-size: 16px;
+}
+
+
+  
